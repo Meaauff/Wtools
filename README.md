@@ -1,5 +1,6 @@
 # Wtools
 Comparison of Excel content based on pyqt5 and python
+基于PyQt5+Python实现Excel内容对比
 
 关于Wtools的使用说明
 单击"选择主文件"按钮，程序会自动打开一个文件选择域，可以自由选择需要对比的主文件；同时下拉列表框会自动获取主文件的sheet表，可供选择，默认为sheet1表
